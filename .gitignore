@@ -1,0 +1,11 @@
+# OS & IDE
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Backup-uri Adobe Audition
+*.SESXAutoSave
+*.SESXBak
+
+# Log-uri și cache
+*.log
